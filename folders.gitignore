@@ -1,0 +1,5 @@
+# Folders
+.ipynb_checkpoints/
+_pycache_/
+inputs/
+outputs/
